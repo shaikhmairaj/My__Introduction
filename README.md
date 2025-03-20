@@ -1,11 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwlsMw/Xb8pCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGb11hSu2SD1_M1g8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mairaj Shaikh</h1>
-<h3 align="center">Aspiring Data Engineer|Frontend Developer</h3>
+<h3 align="center">AWS Cloud Data Engineer|Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **TechNet Cloud**
 
-- 🌱 I’m currently learning **Bs Computer Science BSCS**
+- 🌱 I’m currently Studying **Bs Computer Science BSCS**
 
 - 📫 How to reach me **shaikhmairaj075@gmail.com**
 
